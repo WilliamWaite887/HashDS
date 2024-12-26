@@ -1,0 +1,118 @@
+0 appended to sequence
+2 appended to sequence
+4 appended to sequence
+6 appended to sequence
+8 appended to sequence
+02468
+Before clear(): 5 item(s) in the sequence.
+After clear(): 0 item(s) in the sequence.
+0 prefixed to sequence
+2 prefixed to sequence
+4 prefixed to sequence
+6 prefixed to sequence
+8 prefixed to sequence
+86420
+After making a copy: 86420
+0 appended to sequence
+2 appended to sequence
+4 appended to sequence
+6 appended to sequence
+8 appended to sequence
+02468
+0 retrieved from head of sequence
+2 retrieved from head of sequence
+4 retrieved from head of sequence
+6 retrieved from head of sequence
+8 retrieved from head of sequence
+Nothing in the sequence
+86420
+0 retrieved from tail of sequence
+2 retrieved from tail of sequence
+4 retrieved from tail of sequence
+6 retrieved from tail of sequence
+8 retrieved from tail of sequence
+Nothing in the sequence
+Starting from an empty sequence:
+Prefixing Item 0
+Item 0 removed from Sequence head
+Attempting deleteTail: Nothing in the sequence
+Prefixing Item 1
+Item 1 removed from Sequence head
+Attempting deleteTail: Nothing in the sequence
+Prefixing Item 2
+Item 2 removed from Sequence head
+Attempting deleteTail: Nothing in the sequence
+Prefixing Item 3
+Item 3 removed from Sequence head
+Attempting deleteTail: Nothing in the sequence
+Prefixing Item 4
+Item 4 removed from Sequence head
+Attempting deleteTail: Nothing in the sequence
+Prefixing Item 5
+Item 5 removed from Sequence head
+Attempting deleteTail: Nothing in the sequence
+Prefixing Item 6
+Item 6 removed from Sequence head
+Attempting deleteTail: Nothing in the sequence
+Prefixing Item 7
+Item 7 removed from Sequence head
+Attempting deleteTail: Nothing in the sequence
+Prefixing Item 8
+Item 8 removed from Sequence head
+Attempting deleteTail: Nothing in the sequence
+0 item(s) in the sequence.
+algorithms and data structures are fun
+The first letter is a
+The last letter is n
+Character at index 0 is a; The letter a appeared 5 times
+Character at index 1 is l; The letter l appeared 1 times
+Character at index 2 is g; The letter g appeared 1 times
+Character at index 3 is o; The letter o appeared 1 times
+Character at index 4 is r; The letter r appeared 4 times
+Character at index 5 is i; The letter i appeared 1 times
+Character at index 6 is t; The letter t appeared 4 times
+Character at index 7 is h; The letter h appeared 1 times
+Character at index 8 is m; The letter m appeared 1 times
+Character at index 9 is s; The letter s appeared 3 times
+Character at index 10 is  ; The letter   appeared 5 times
+Character at index 11 is a; The letter a appeared 5 times
+Character at index 12 is n; The letter n appeared 2 times
+Character at index 13 is d; The letter d appeared 2 times
+Character at index 14 is  ; The letter   appeared 5 times
+Character at index 15 is d; The letter d appeared 2 times
+Character at index 16 is a; The letter a appeared 5 times
+Character at index 17 is t; The letter t appeared 4 times
+Character at index 18 is a; The letter a appeared 5 times
+Character at index 19 is  ; The letter   appeared 5 times
+Character at index 20 is s; The letter s appeared 3 times
+Character at index 21 is t; The letter t appeared 4 times
+Character at index 22 is r; The letter r appeared 4 times
+Character at index 23 is u; The letter u appeared 3 times
+Character at index 24 is c; The letter c appeared 1 times
+Character at index 25 is t; The letter t appeared 4 times
+Character at index 26 is u; The letter u appeared 3 times
+Character at index 27 is r; The letter r appeared 4 times
+Character at index 28 is e; The letter e appeared 2 times
+Character at index 29 is s; The letter s appeared 3 times
+Character at index 30 is  ; The letter   appeared 5 times
+Character at index 31 is a; The letter a appeared 5 times
+Character at index 32 is r; The letter r appeared 4 times
+Character at index 33 is e; The letter e appeared 2 times
+Character at index 34 is  ; The letter   appeared 5 times
+Character at index 35 is f; The letter f appeared 1 times
+Character at index 36 is u; The letter u appeared 3 times
+Character at index 37 is n; The letter n appeared 2 times
+Attempting item at 38: IndexOutOfBoundsException
+The letter z appeared 0 times
+algorithms and data structures are fun
+Deleting 8 characters from tail: algorithms and data structures
+Appending " one is fun": algorithms and data structures one is fun
+Removing all 'a's: 
+Removing one a
+Removing one a
+Removing one a
+Removing one a
+lgorithms nd dt structures one is fun
+Creating a large sequence with 1000000 items
+The size of the sequence is 1000000
+Removing 100 items: The size of the sequence is 999900
